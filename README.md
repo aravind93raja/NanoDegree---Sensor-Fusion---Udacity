@@ -1,6 +1,14 @@
 # NanoDegree Program on SENSOR FUSION 
 
-## Collection of Projects part of the above mentioned program by Udacity
+## Collection of Projects part of the [Sensor Fusion NanoDegree](https://www.udacity.com/course/sensor-fusion-engineer-nanodegree--nd313) program by Udacity
+
+The furthur details for every project :
+
+1) Setup & Build Instruction
+
+2) Sample Results 
+
+have been provided in the README.md of each repository 
 
 ### 1) Project - Lidar Obstacle Detection
 
